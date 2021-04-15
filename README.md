@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 
 ---
 
-
----
-
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<xlr8r53>&hide=java,html,css&theme=radical)](https://github.com/xlr8r53/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlr8r53&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=<xlr8r53>&theme=radical)](https://github.com/xlr8r53/github-readme-stats)
+[![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlr8r53)](https://github.com/anuraghazra/github-readme-stats)
