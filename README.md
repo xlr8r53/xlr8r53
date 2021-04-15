@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="" width="50" height="50"/> <img src="hhttps://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg " alt="1" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="1" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
 
 ---
